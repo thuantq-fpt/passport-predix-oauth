@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "0.1.x",
+    "passport-oauth": "https://github.com/thuantq-fpt/passport-oauth.git",
     "https-proxy-agent": "^1.0.0"
   },
   "devDependencies": {
